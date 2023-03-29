@@ -1,0 +1,38 @@
+{
+  "name": "NFT Collection #13",
+  "symbol": "SRI",
+  "description": "My NFT collection",
+  "seller_fee_basis_points": 1000,
+  "image": "13.png",
+  "external_url": "https://www.youtube.com/c/hashlipsnft",
+  "edition": 13,
+  "attributes": [
+    {
+      "trait_type": "Head",
+      "value": "HotPink"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shock"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Oval"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "13.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
+        "share": 100
+      }
+    ]
+  }
+}

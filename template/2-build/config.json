@@ -1,0 +1,22 @@
+{
+  "tokenStandard": "nft",
+  "number": 27,
+  "symbol": "SRI",
+  "sellerFeeBasisPoints": 1000,
+  "isMutable": true,
+  "isSequential": false,
+  "creators": [
+    {
+      "address": "FtAs1Admn8pStv2yVhn3XxHEdvETqNiX1y47FqkLpcc6",
+      "share": 100
+    }
+  ],
+  "uploadMethod": "bundlr",
+  "ruleSet": null,
+  "awsConfig": null,
+  "nftStorageAuthToken": null,
+  "shdwStorageAccount": null,
+  "pinataConfig": null,
+  "hiddenSettings": null,
+  "guards": null
+}
